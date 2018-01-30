@@ -1,0 +1,52 @@
+body {
+  
+  background-image: url("http://www.photoannouncementsweddinginvitations.com/Background-Catalog/Patterns-07-R.jpg");
+  background-size:cover;
+  font-color: #000;
+}
+
+h1 {
+  text-align: center;
+  font-family: 'Arizonia', Helvetica, sans-serif;
+  font-weight:bold;
+  Font-Size: 48px;
+  color: #2b2b2b;
+  text-shadow: 4px 4px 0px rgba(0,0,0,0.1); 
+}
+p {
+  font-weight: bold;
+  text-align:center;
+  margin: 2% 35% 2% 35%;
+}
+
+.quote-btn {
+  margin: 0 auto 25px auto;
+  font-family: 'Arizonia', Helvetica, sans-serif;
+  font-weight:bold;
+  Font-size: 32px;
+  transition: all 0.5s ease;
+}
+.quote-btn:hover {
+  Background-color: #000;
+  color: #FFF;
+}
+.center {
+  float: center;
+  text-align: center;
+  margin: 0 auto;
+}
+
+.quote {
+  background-color: #CCC;
+  margin: 20px 15%;
+  padding: 20px 0px 20px 0px;
+  min-height: 100px;
+  height: auto;
+  width: auto;
+  border-radius: 20px;
+  box-shadow: 5px 5px 5px 0;
+}
+.share-bar{
+  font-size: 3em;
+  text-align:center;
+}
